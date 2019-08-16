@@ -1,0 +1,2 @@
+# ajs
+my first repository
